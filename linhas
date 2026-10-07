@@ -1,0 +1,9 @@
+git init
+code .
+git clone 
+git status
+cd + Primeira letra do arquivo
+git add .
+git status
+git commit -m " v1.0.0 "
+git push
